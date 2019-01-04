@@ -1,2 +1,2 @@
 # Hotplate
-A tool for exhibitors and exhibitor coordinators for travel and sales management.
+A tool for exhibitors and exhibitor coordinators for travel and tradeshow relations.
