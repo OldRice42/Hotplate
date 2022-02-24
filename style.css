@@ -3,7 +3,16 @@ body, h1, h2, h3, h4, h5, h6, p, a {
   font-family: Veranda, sans-serif;
   font-weight: normal;
   font-style: normal;
-  color: rgb(28, 17, 41);
+}
+
+.titlebar_header {
+  width: 800px;
+  max-width: 90%;
+  padding: 10px;
+  margin: 25px;
+  background-color: palegoldenrod;
+  border-color: goldenrod;
+  border-style:dotted;
 }
 
 /*
